@@ -2,7 +2,7 @@
 
 1. We are really, really interested in your object-oriented development skills, so please solve the problem keeping this in mind.
 2. Please ensure that the coding conventions, directory structure and build approach to your project follow the conventions set by popular open source projects in the language that you're using.
-3. Please ensure that you write comprehensive (Unit Tests)[https://martinfowler.com/bliki/UnitTest.html]
+3. Please ensure that you write comprehensive [Unit Tests](https://martinfowler.com/bliki/UnitTest.html)
 4. You have to solve the problem in Ruby, Java, GoLang or any other object-oriented language of your choice, without using any external libraries/frameworks except for a library for TDD. A simple console application is sufficient. Your solution must build+run on Linux. If you don't have access to a Linux dev machine, you can easily set one up using Docker.
 5. Please use Git for version control. We expect you to send us a standard zip or tarball of your source code when you're done that includes Git metadata(the .git folder) in the tarball so we can look at your commit logs and understand how your solution evolved. Granular and descriptive comments are a huge plus.
 6. Please do not check in class files, jars or other libraries or output from the build process. Use a standard build automation and dependency system like ant/maven/rake.
@@ -13,6 +13,6 @@
 
 
 We will evaluate the basic hygiene of your project by doing code triage on MacOS, please make sure your code is executable. 
-For detailed tips about clearing our automated coding round, please visit (this page)[https://blog.gojekengineering.com/tips-and-tricks-on-how-to-clear-our-automated-coding-round-4d3e2eb3df7b].
+For detailed tips about clearing our automated coding round, please visit [this page](https://blog.gojekengineering.com/tips-and-tricks-on-how-to-clear-our-automated-coding-round-4d3e2eb3df7b).
 
-#### More Detail in PDF File
+#### More Detail in [This File](ParkingLot-1.4.2.pdf)
